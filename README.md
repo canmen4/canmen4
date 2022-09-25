@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @canmen4
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science on Bilkent University
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me through my email can.men@ug.bilkent.edu.tr
 
